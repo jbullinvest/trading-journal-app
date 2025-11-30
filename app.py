@@ -4,7 +4,7 @@ import numpy as np
 import plotly.express as px
 from streamlit_gsheets import GSheetsConnection 
 import os 
-
+# Force a redeploy to fix dependency issue
 # =============================================================================
 # 1. 配置信息 (已插入您的 Google Sheets URL)
 # =============================================================================
