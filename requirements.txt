@@ -1,0 +1,1 @@
+ streamlit pandas numpy plotly
